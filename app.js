@@ -15,12 +15,7 @@ import express from "express";
 const app = express();
 
 
-app.get("/", (req, res) => {
-  
-    res.send("welcome to the homepage bitcoiners");
-    console.log('llllllllll')
-  
-});
+
 
 const PORT = process.env.port || 8080;
 app.listen(PORT, () => {
@@ -36,11 +31,11 @@ app.listen(PORT, () => {
 //   database: "Test_db"
 // })
 const client = new Pool({
-  host: process.env.RDS_HOSTNAME,
+  host: 'aa4yc6lrkevbr6.chzn6cnaazyl.eu-west-2.rds.amazonaws.com', //process.env.RDS_HOSTNAME,
   user: 'Tomaster', // process.env.RDS_USERNAME,
   password: 'Stankonia69.', // process.env.RDS_PASSWORD,
-  port     : process.env.RDS_PORT,
-  database: process.env.RDS_DB_NAME
+  port     : 5432, //process.env.RDS_PORT,
+  database: "ebdb" // process.env.RDS_DB_NAME
 });
 
 client.connect(function(err) {
@@ -52,7 +47,24 @@ client.connect(function(err) {
   console.log('Connected to database.');
 });
 
-client.end();
+// client.end();
+
+app.get("/", (req, res) => {
+  
+  res.send("welcome to the homepage bitcoiners");
+  
+client.connect(function(err) {
+  if (err) {
+    res.send('Database connection failed: ' + err.stack);
+    return;
+  }
+
+  res.send('Connected to database.');
+});
+
+  console.log('llllllllll')
+
+});
 
 // const pool  = new Pool({
 //   connectionlimit: 50,
