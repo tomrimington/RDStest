@@ -20,17 +20,7 @@ const { Pool } = pg.default
 //     database:"Test_db"
 //     })
 
-var pool  = new Pool ({
-    connectionlimit: 30,
-        // connectTimeout  : 60 * 60 * 1000,
-        //   acquireTimeout  : 60 * 60 * 1000,
-        //   timeout         : 60 * 60 * 1000,
-    port: 5432,
-    host: "testdb.chzn6cnaazyl.eu-west-2.rds.amazonaws.com",
-    user: "postgres",
-    password: "Toothemoon69",
-    database: "Test_db"
-})
+
 
 const confissues = [{
     confpath: './config/sample1.json',

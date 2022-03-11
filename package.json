@@ -22,6 +22,7 @@
     "buffer-layout": "^1.2.2",
     "coingecko-api": "^1.0.10",
     "coinranking-api": "^1.0.0",
+    "express": "^4.17.3",
     "lodash": "^4.17.21",
     "mysql": "^2.18.1",
     "node-cron": "^3.0.0",
