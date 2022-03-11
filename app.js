@@ -17,10 +17,10 @@ const app = express();
 
 app.get("/", (req, res) => {
   
-    res.send("welcome to the homepage bitchhhh");
+    res.send("welcome to the homepage bitcoiners");
   
 });
-
+console.log('llllllllll')
 const PORT = process.env.port || 8080;
 app.listen(PORT, () => {
   console.log("wasssuppp");
@@ -36,8 +36,8 @@ app.listen(PORT, () => {
 // })
 const client = new Pool({
   host: process.env.RDS_HOSTNAME,
-  user: process.env.RDS_USERNAME,
-  password: process.env.RDS_PASSWORD,
+  user: 'Tomaster', // process.env.RDS_USERNAME,
+  password: 'Stankonia69.', // process.env.RDS_PASSWORD,
   port     : process.env.RDS_PORT,
   database: process.env.RDS_DB_NAME
 });
