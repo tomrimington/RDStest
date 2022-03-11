@@ -48,7 +48,7 @@ app.get("/", (req, res) => {
   
 client.connect(function(err) {
 
-
+let x = 19;
   
 });
 
