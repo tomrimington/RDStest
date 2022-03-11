@@ -49,8 +49,10 @@ app.get("/", (req, res) => {
 client.connect(function(err) {
 
 
-  res.send('Connected to database.');
+  
 });
+
+res.send('Connected to database.');
 
   console.log('llllllllll')
 
