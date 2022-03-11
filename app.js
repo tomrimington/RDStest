@@ -18,9 +18,10 @@ const app = express();
 app.get("/", (req, res) => {
   
     res.send("welcome to the homepage bitcoiners");
+    console.log('llllllllll')
   
 });
-console.log('llllllllll')
+
 const PORT = process.env.port || 8080;
 app.listen(PORT, () => {
   console.log("wasssuppp");
