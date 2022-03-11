@@ -1,0 +1,27 @@
+{
+  "rpc": "https://damp-solitary-field.solana-mainnet.quiknode.pro/d637d1b8451a0b9163d33c181874c33ca8f1c448/",
+  "updateAuthority": "7hYkx2CNGRB8JE7X7GefX1ak1dqe7GxgYKbpfj9moE9D",
+  "primaryRoyaltiesAccount": "8hTYASw98ZCZJwuEF9apPhmQTW7TYaoh9AnJfeV2X5tx",
+  "candyMachineId": "7EqcS1mupSTNLfNmRAWagxSrYjfrEncKhVkRb6JChiyxsXWBofK11zjEKVNVnLinzMVR4jbeyJY9z75FVzM4Uyy",
+  "collection": "Mindfolk",
+  "id": "9",
+  "marketPlaceInfos": [{
+    "name": "DigitalEyes",
+    "addresses": ["3iYf9hHQPciwgJ1TCjpRUp1A3QW4AfaK7J6vCmETRMuu"]
+  },
+  {
+    "name": "MagicEden",
+    "addresses": ["2NZukH2TXpcuZP4htiuT8CFxcaQSWzkkR6kepSWnZ24Q"]
+  }],
+  "twitter": {
+    "consumerApiKey": "5vAW***********",
+    "consumerApiSecret": "YecOVT***********",
+    "oauth": {
+      "token": "UjI***********",
+      "secret": "iNA***********"
+    }
+  },
+  "discord": {
+    "webhookUrl": "https://discord.com/api/webhooks/***********"
+  }
+}

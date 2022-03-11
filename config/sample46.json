@@ -1,0 +1,27 @@
+{
+  "rpc": "https://damp-solitary-field.solana-mainnet.quiknode.pro/d637d1b8451a0b9163d33c181874c33ca8f1c448/",
+  "updateAuthority": "FCSzzLX14w557hbxUxL53qt4dQoTCwA5MUsQWj2ctGz",
+  "primaryRoyaltiesAccount": "FxR1KHfFa5LrJ467HdziVRW2LUu6rrgHq78WMCZsF8dG",
+  "candyMachineId": "MuBZzF4RbXmjhtXXHTbhitoMGBAv9JCHxJbVwrQGeD5gqMwCWFwQcPRDRbXwUxK8iQLyeEQhwy2d4dx2y7F4d2f",
+  "collection": "Zillaz NFT",
+  "id": "46",
+  "marketPlaceInfos": [{
+    "name": "DigitalEyes",
+    "addresses": ["3iYf9hHQPciwgJ1TCjpRUp1A3QW4AfaK7J6vCmETRMuu"]
+  },
+  {
+    "name": "MagicEden",
+    "addresses": ["2NZukH2TXpcuZP4htiuT8CFxcaQSWzkkR6kepSWnZ24Q"]
+  }],
+  "twitter": {
+    "consumerApiKey": "5vAW***********",
+    "consumerApiSecret": "YecOVT***********",
+    "oauth": {
+      "token": "UjI***********",
+      "secret": "iNA***********"
+    }
+  },
+  "discord": {
+    "webhookUrl": "https://discord.com/api/webhooks/***********"
+  }
+}

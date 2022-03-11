@@ -1,0 +1,27 @@
+{
+  "rpc": "https://damp-solitary-field.solana-mainnet.quiknode.pro/d637d1b8451a0b9163d33c181874c33ca8f1c448/",
+  "updateAuthority": "CATPa1APxUC7L3KaWkR2Aiy5LYBThRiNQM1MFrTDC9ZC",
+  "primaryRoyaltiesAccount": "CATPa1APxUC7L3KaWkR2Aiy5LYBThRiNQM1MFrTDC9ZC",
+  "candyMachineId": "rc7NwwwLa4XggwfC6Ux6udRZE37EjG1L9NndnFTEqQAqmgtX67Xc4JuxUaM4QvZsSRpCqTNg19uw1NRQFrGo25u",
+  "collection": "Monkey Baby Business",
+  "id": "24",
+  "marketPlaceInfos": [{
+    "name": "DigitalEyes",
+    "addresses": ["3iYf9hHQPciwgJ1TCjpRUp1A3QW4AfaK7J6vCmETRMuu"]
+  },
+  {
+    "name": "MagicEden",
+    "addresses": ["2NZukH2TXpcuZP4htiuT8CFxcaQSWzkkR6kepSWnZ24Q"]
+  }],
+  "twitter": {
+    "consumerApiKey": "5vAW***********",
+    "consumerApiSecret": "YecOVT***********",
+    "oauth": {
+      "token": "UjI***********",
+      "secret": "iNA***********"
+    }
+  },
+  "discord": {
+    "webhookUrl": "https://discord.com/api/webhooks/***********"
+  }
+}

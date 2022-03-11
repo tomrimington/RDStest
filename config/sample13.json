@@ -1,0 +1,27 @@
+{
+  "rpc": "https://damp-solitary-field.solana-mainnet.quiknode.pro/d637d1b8451a0b9163d33c181874c33ca8f1c448/",
+  "updateAuthority": "G9o9JQf6gDZKWanfpP4p1TD61SjD16aUsCr7fXUsnz4x",
+  "primaryRoyaltiesAccount": "G9o9JQf6gDZKWanfpP4p1TD61SjD16aUsCr7fXUsnz4x",
+  "candyMachineId": "5mJ3A2xV5SKoY1uSf99Evb36HZtVz2L13wQvVvXFNW3bhH5Btc3HkwKZTfn1pVUTkwao326nmmLJbwse7zTWPYh",
+  "collection": "Dazed Ducks",
+  "id": "13",
+  "marketPlaceInfos": [{
+    "name": "DigitalEyes",
+    "addresses": ["3iYf9hHQPciwgJ1TCjpRUp1A3QW4AfaK7J6vCmETRMuu"]
+  },
+  {
+    "name": "MagicEden",
+    "addresses": ["2NZukH2TXpcuZP4htiuT8CFxcaQSWzkkR6kepSWnZ24Q"]
+  }],
+  "twitter": {
+    "consumerApiKey": "5vAW***********",
+    "consumerApiSecret": "YecOVT***********",
+    "oauth": {
+      "token": "UjI***********",
+      "secret": "iNA***********"
+    }
+  },
+  "discord": {
+    "webhookUrl": "https://discord.com/api/webhooks/***********"
+  }
+}

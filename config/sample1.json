@@ -1,0 +1,27 @@
+{
+  "rpc": "https://damp-solitary-field.solana-mainnet.quiknode.pro/d637d1b8451a0b9163d33c181874c33ca8f1c448/",
+  "updateAuthority": "DRGNjvBvnXNiQz9dTppGk1tAsVxtJsvhEmojEfBU3ezf",
+  "primaryRoyaltiesAccount": "DRGNjvBvnXNiQz9dTppGk1tAsVxtJsvhEmojEfBU3ezf",
+  "candyMachineId": "5s1shCvsNvk34siWmgpYt6u88Gm2E4WPh7YHxPJUj7ZErX3fouaAGsT8mkQ7N8HDmEd7riBWTWtM6sry8pbkJ4kC",
+  "collection": "Boryoku Dragonz",
+  "id": "1",
+  "marketPlaceInfos": [{
+    "name": "DigitalEyes",
+    "addresses": ["3iYf9hHQPciwgJ1TCjpRUp1A3QW4AfaK7J6vCmETRMuu"]
+  },
+  {
+    "name": "MagicEden",
+    "addresses": ["2NZukH2TXpcuZP4htiuT8CFxcaQSWzkkR6kepSWnZ24Q"]
+  }],
+  "twitter": {
+    "consumerApiKey": "5vAW***********",
+    "consumerApiSecret": "YecOVT***********",
+    "oauth": {
+      "token": "UjI***********",
+      "secret": "iNA***********"
+    }
+  },
+  "discord": {
+    "webhookUrl": "https://discord.com/api/webhooks/***********"
+  }
+}

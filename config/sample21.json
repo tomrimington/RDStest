@@ -1,0 +1,27 @@
+{
+  "rpc": "https://damp-solitary-field.solana-mainnet.quiknode.pro/d637d1b8451a0b9163d33c181874c33ca8f1c448/",
+  "updateAuthority": "pEsKYABNARLiDFYrjbjHDieD5h6gHrvYf9Vru62NX9k",
+  "primaryRoyaltiesAccount": "ppTeamTpw1cbC8ybJpppbnoL7xXD9froJNFb5uvoPvb",
+  "candyMachineId": "4WpB9M54qsEkAWsnQ6snDG15rPxn5pnoNSagEHqNEkVDQVXSxeWswFnYb4q9M5kimyYnnq5NQ5QvzYY6BhnRUiQu",
+  "collection": "Pesky Penguin Club",
+  "id": "21",
+  "marketPlaceInfos": [{
+    "name": "DigitalEyes",
+    "addresses": ["3iYf9hHQPciwgJ1TCjpRUp1A3QW4AfaK7J6vCmETRMuu"]
+  },
+  {
+    "name": "MagicEden",
+    "addresses": ["2NZukH2TXpcuZP4htiuT8CFxcaQSWzkkR6kepSWnZ24Q"]
+  }],
+  "twitter": {
+    "consumerApiKey": "5vAW***********",
+    "consumerApiSecret": "YecOVT***********",
+    "oauth": {
+      "token": "UjI***********",
+      "secret": "iNA***********"
+    }
+  },
+  "discord": {
+    "webhookUrl": "https://discord.com/api/webhooks/***********"
+  }
+}

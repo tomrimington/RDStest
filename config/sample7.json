@@ -1,0 +1,27 @@
+{
+  "rpc": "https://damp-solitary-field.solana-mainnet.quiknode.pro/d637d1b8451a0b9163d33c181874c33ca8f1c448/",
+  "updateAuthority": "PUFFgnKKhQ23vp8uSPwdzrUhEr7WpLmjM85NB1FQgpb",
+  "primaryRoyaltiesAccount": "PUFFgnKKhQ23vp8uSPwdzrUhEr7WpLmjM85NB1FQgpb",
+  "candyMachineId": "4peUvFDKCP71nYoh4oFpTS5BL7jKWMSxCPg9vdxzj3MXA6WvPwP6PM9mNh39QDgzF29AcXCjzeLDAG1fvSudAuX5",
+  "collection": "Stoned Ape Crew",
+  "id": "7",
+  "marketPlaceInfos": [{
+    "name": "DigitalEyes",
+    "addresses": ["3iYf9hHQPciwgJ1TCjpRUp1A3QW4AfaK7J6vCmETRMuu"]
+  },
+  {
+    "name": "MagicEden",
+    "addresses": ["2NZukH2TXpcuZP4htiuT8CFxcaQSWzkkR6kepSWnZ24Q"]
+  }],
+  "twitter": {
+    "consumerApiKey": "5vAW***********",
+    "consumerApiSecret": "YecOVT***********",
+    "oauth": {
+      "token": "UjI***********",
+      "secret": "iNA***********"
+    }
+  },
+  "discord": {
+    "webhookUrl": "https://discord.com/api/webhooks/***********"
+  }
+}

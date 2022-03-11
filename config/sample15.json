@@ -1,0 +1,27 @@
+{
+  "rpc": "https://damp-solitary-field.solana-mainnet.quiknode.pro/d637d1b8451a0b9163d33c181874c33ca8f1c448/",
+  "updateAuthority": "DeBtJy88jrnheD8F3HEAqiQztykXksgMyvmcByHC5RGv",
+  "primaryRoyaltiesAccount": "596djxi8PQ3qoxQbjr3CXQ8RJXyNwNbXKqE1g9kPHuYB",
+  "candyMachineId": "4PkYRAS3Q4YdhbdqynCBu3SNYit9fgU9rTaRxY27Kb8PPaGNHHvzMEvDbsqrjk9G34Yum5ksWZdRzwJzNxZQFu9B",
+  "collection": "OG Flowers",
+  "id": "15",
+  "marketPlaceInfos": [{
+    "name": "DigitalEyes",
+    "addresses": ["3iYf9hHQPciwgJ1TCjpRUp1A3QW4AfaK7J6vCmETRMuu"]
+  },
+  {
+    "name": "MagicEden",
+    "addresses": ["2NZukH2TXpcuZP4htiuT8CFxcaQSWzkkR6kepSWnZ24Q"]
+  }],
+  "twitter": {
+    "consumerApiKey": "5vAW***********",
+    "consumerApiSecret": "YecOVT***********",
+    "oauth": {
+      "token": "UjI***********",
+      "secret": "iNA***********"
+    }
+  },
+  "discord": {
+    "webhookUrl": "https://discord.com/api/webhooks/***********"
+  }
+}
