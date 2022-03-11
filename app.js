@@ -42,6 +42,17 @@ const client = new Pool({
   database: process.env.RDS_DB_NAME
 });
 
+client.connect(function(err) {
+  if (err) {
+    console.error('Database connection failed: ' + err.stack);
+    return;
+  }
+
+  console.log('Connected to database.');
+});
+
+client.end();
+
 // const pool  = new Pool({
 //   connectionlimit: 50,
 //   host: "testdb.chzn6cnaazyl.eu-west-2.rds.amazonaws.com",
