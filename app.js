@@ -38,14 +38,7 @@ const client = new Pool({
   database: "ebdb" // process.env.RDS_DB_NAME
 });
 
-client.connect(function(err) {
-  if (err) {
-    console.error('Database connection failed: ' + err.stack);
-    return;
-  }
 
-  console.log('Connected to database.');
-});
 
 // client.end();
 
@@ -54,10 +47,7 @@ app.get("/", (req, res) => {
   res.send("welcome to the homepage bitcoiners");
   
 client.connect(function(err) {
-  if (err) {
-    res.send('Database connection failed: ' + err.stack);
-    return;
-  }
+
 
   res.send('Connected to database.');
 });
